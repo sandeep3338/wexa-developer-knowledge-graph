@@ -1,0 +1,4 @@
+@Wexa_Graph_Api_HostAddress = https://localhost:7046
+
+### Seed graph database
+POST {{Wexa_Graph_Api_HostAddress}}/api/database/seed
